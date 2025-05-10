@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|c:\\users\\stefan\\desktop\\tower-of-hanoi\\tower of hanoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -101,8 +101,7 @@
               "RelativeToolTip": "Tower Of Hanoi\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T08:00:08.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T08:00:08.261Z"
             },
             {
               "$type": "Document",
@@ -187,8 +186,7 @@
               "RelativeToolTip": "Tower Of Hanoi\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T20:06:38.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T20:06:38.522Z"
             },
             {
               "$type": "Document",
@@ -200,8 +198,7 @@
               "RelativeToolTip": "Tower Of Hanoi\\Views\\Game\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T18:16:06.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T18:16:06.169Z"
             },
             {
               "$type": "Document",
