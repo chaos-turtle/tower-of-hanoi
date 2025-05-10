@@ -1,0 +1,114 @@
+﻿@model PagedList.IPagedList<Tower_Of_Hanoi.Models.Score>
+@using Microsoft.AspNet.Identity
+@using PagedList.Mvc
+@{
+    ViewBag.Title = "Leaderboard";
+}
+
+<h2>Leaderboard</h2>
+<input type="text" id="search" placeholder="Search by user..." />
+<button id="searchButton">Search</button>
+<hr />
+<label>Disks: </label>
+<select id="disksFilter">
+    <option value="">All</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+</select>
+
+<label>Perfect Game: </label>
+<select id="perfectFilter">
+    <option value="">All</option>
+    <option value="true">Yes</option>
+    <option value="false">No</option>
+</select>
+
+<button id="filterButton">Apply Filters</button>
+
+<hr />
+<table class="table">
+    <thead class="table-dark">
+        <tr>
+            <th>User</th>
+            <th>
+                <a href="@Url.Action("Leaderboard", new { sortBy = "Moves", sortDesc = ViewBag.SortBy == "Moves" ? !ViewBag.SortDesc : false, search = ViewBag.Search ?? "" })">
+                    Moves @(ViewBag.SortBy == "Moves" ? (ViewBag.SortDesc ? "▼" : "▲") : "")
+                </a>
+            </th>
+            <th>
+                <a href="@Url.Action("Leaderboard", new { sortBy = "Disks", sortDesc = ViewBag.SortBy == "Disks" ? !ViewBag.SortDesc : false, search = ViewBag.Search ?? "" })">
+                    Disks @(ViewBag.SortBy == "Disks" ? (ViewBag.SortDesc ? "▼" : "▲") : "")
+                </a>
+            </th>
+            <th>Is Perfect</th>
+            <th>
+                <a href="@Url.Action("Leaderboard", new { sortBy = "DateAchieved", sortDesc = ViewBag.SortBy == "DateAchieved" ? !ViewBag.SortDesc : false, search = ViewBag.Search ?? "" })">
+                    Date Achieved @(ViewBag.SortBy == "DateAchieved" ? (ViewBag.SortDesc ? "▼" : "▲") : "")
+                </a>
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var score in Model)
+        {
+            <tr id="row-@score.Id">
+                <td>@score.User.UserName</td>
+                <td>@score.Moves</td>
+                <td>@score.Disks</td>
+                <td>@(score.IsPerfect ? "Yes" : "No")</td>
+                <td>@score.DateAchieved</td>
+                <td>
+                    @if (score.UserId == User.Identity.GetUserId())
+                    {
+                        <button onclick="deleteScore('@score.Id')">Delete</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@if (User.Identity.IsAuthenticated)
+{
+    <button id="clearScores">Clear All My Scores</button>
+}
+@Html.PagedListPager(Model, page => Url.Action("Leaderboard", new { page, search = ViewBag.Search ?? string.Empty }))
+<script>
+    document.getElementById('searchButton').addEventListener('click', function () {
+        var search = document.getElementById('search').value;
+        window.location.href = '@Url.Action("Leaderboard")?search=' + search;
+    });
+
+    document.getElementById('clearScores').addEventListener('click', function () {
+        if (confirm("Are you sure you want to clear all your scores?")) {
+            $.post('@Url.Action("ClearScores")', function () {
+                location.reload();
+            });
+        }
+    });
+    document.getElementById('filterButton').addEventListener('click', function () {
+    var search = document.getElementById('search').value;
+    var disks = document.getElementById('disksFilter').value;
+    var isPerfect = document.getElementById('perfectFilter').value;
+
+    var url = '@Url.Action("Leaderboard")' + '?search=' + search + '&disks=' + disks + '&isPerfect=' + isPerfect;
+    window.location.href = url;
+    });
+
+    function deleteScore(id) {
+        if (confirm("Are you sure you want to delete this score?")) {
+            $.ajax({
+                url: '@Url.Action("DeleteScore", "Game")',
+                type: 'POST',
+                data: { id: id },
+                success: function (result) {
+                    $('#row-' + id).remove();
+                },
+                error: function (xhr, status, error) {
+                    alert("Error deleting score.");
+                }
+            });
+        }
+    }
+</script>

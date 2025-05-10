@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_Tower_Of_Hanoi_20240901080508/True/SqlTable/dbo.Scores.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\scripts\\towerofhanoi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\scripts\\towerofhanoi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\content\\towerofhanoi.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\content\\towerofhanoi.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\views\\game\\leaderboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\views\\game\\leaderboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\migrations\\202409251718320_migration-latest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\migrations\\202409251718320_migration-latest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\tower of hanoi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{23834D7F-BAD0-4215-AE52-C8EF1C609859}|Tower Of Hanoi\\Tower Of Hanoi.csproj|solutionrelative:tower of hanoi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Startup.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Startup.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Startup.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:00:08.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Leaderboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Game\\Leaderboard.cshtml",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Views\\Game\\Leaderboard.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Game\\Leaderboard.cshtml",
+              "RelativeToolTip": "Tower Of Hanoi\\Views\\Game\\Leaderboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T15:13:19.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tower Of Hanoi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T18:22:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\Models\\IdentityModels.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:25:26.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Models\\Score.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Models\\Score.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Models\\Score.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\Models\\Score.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:24:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TowerOfHanoi.css",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Content\\TowerOfHanoi.css",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Content\\TowerOfHanoi.css",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Content\\TowerOfHanoi.css",
+              "RelativeToolTip": "Tower Of Hanoi\\Content\\TowerOfHanoi.css",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T18:21:33.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TowerOfHanoi.js",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Scripts\\TowerOfHanoi.js",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Scripts\\TowerOfHanoi.js",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Scripts\\TowerOfHanoi.js",
+              "RelativeToolTip": "Tower Of Hanoi\\Scripts\\TowerOfHanoi.js",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv2AAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-01T18:18:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Tower Of Hanoi\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T20:06:38.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "Tower Of Hanoi\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T18:16:06.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:59:55.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Tower Of Hanoi\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T20:06:57.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:41:44.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Tower Of Hanoi\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T20:06:53.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:32:00.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Global.asax.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:10:09.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Scores.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_Tower_Of_Hanoi_20240901080508/True/SqlTable/dbo.Scores.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_Tower_Of_Hanoi_20240901080508/True/SqlTable/dbo.Scores.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-25T18:30:38.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202409251718320_migration-latest.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Migrations\\202409251718320_migration-latest.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Migrations\\202409251718320_migration-latest.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Migrations\\202409251718320_migration-latest.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\Migrations\\202409251718320_migration-latest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:18:34.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "Tower Of Hanoi\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:13:46.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Web.config",
+              "RelativeDocumentMoniker": "Tower Of Hanoi\\Web.config",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\tower-of-hanoi\\Tower Of Hanoi\\Web.config",
+              "RelativeToolTip": "Tower Of Hanoi\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-01T18:07:27.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

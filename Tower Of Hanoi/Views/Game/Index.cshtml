@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Tower of Hanoi";
+}
+
+<h1>Tower of Hanoi</h1>
+<div id="controls">
+    <button id="decrease-disks">-</button>
+    <span id="disk-count">3</span>
+    <button id="increase-disks">+</button>
+    <button id="restart">Restart</button>
+    <span>Moves: <span id="move-counter">0</span></span>
+</div>
+<div id="towers">
+    <div class="tower" id="tower1">
+        <div class="rod"></div>
+    </div>
+    <div class="tower" id="tower2">
+        <div class="rod"></div>
+    </div>
+    <div class="tower" id="tower3">
+        <div class="rod"></div>
+    </div>
+</div>
+<div id="min-moves-message">Minimum moves required: 7</div>
+<div id="completion-message"></div>
+<button id="save-score" style="display:none; margin:auto">Save Score</button>
+<script src="~/Scripts/TowerOfHanoi.js"></script>
